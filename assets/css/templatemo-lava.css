@@ -777,7 +777,7 @@ about
 .features-item img {
   z-index: 10;
   position: relative;
-  max-width: 100%;
+  width: 150px;
   margin-bottom: 40px;
 }
 
