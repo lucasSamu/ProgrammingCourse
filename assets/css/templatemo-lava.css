@@ -661,6 +661,16 @@ welcome
   background-repeat: no-repeat;
   background-position: right top;
 }
+/* ---------  welcome (saber_mais_html)  ----------- */
+.welcome-area2 {
+  width: 100%;
+  height: 100vh;
+  min-height: 793px;
+  background-image: url(../images/banner-bg.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+/* ---------  welcome (saber_mais_html) FIM  ----------- */
 
 .welcome-area .header-text .left-text {
   position: relative;
